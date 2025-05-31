@@ -103,5 +103,5 @@ Trains and compares models
 Saves the best model pipeline
 
 📫 Contact
-Created by Priya Murugesan
+Created by Mohana Priya Murugesan
 📧 Email: priyamurugesan3299@gmail.com
